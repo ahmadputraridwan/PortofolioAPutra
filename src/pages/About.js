@@ -19,79 +19,26 @@ const About = () => {
         <>
           <article>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-              ac rhoncus quam.
+            Greetings! I am Ahmad Putra Ridwan Susilo, a graduate of the University of Bandar Lampung with a degree in Business Administration. My professional journey began as a General Administration staff, contributing as an honorary worker at the Water Resource Management Agency of Lampung Province, Region II.
             </p>
             <p>
-              Fringilla quam urna. Cras turpis elit, euismod eget ligula quis,
-              imperdiet sagittis justo. In viverra fermentum ex ac vestibulum.
-              Aliquam eleifend nunc a luctus porta. Mauris laoreet augue ut
-              felis blandit, at iaculis odio ultrices. Nulla facilisi.
-              Vestibulum cursus ipsum tellus, eu tincidunt neque tincidunt a.
+            Presently, I am undergoing a transformative journey by participating in a bootcamp to become a Fullstack Developer at DumbWays.id. This immersive experience has allowed me to delve into the intricacies of full-stack development, equipping me with a diverse skill set to thrive in the dynamic world of technology.
+
+
             </p>
             <h2>Sub-header</h2>
             <p>
-              In eget sodales arcu, consectetur efficitur metus. Duis efficitur
-              tincidunt odio, sit amet laoreet massa fringilla eu.
+            My academic background in business administration, coupled with real-world experience in general administration within the water resource management sector, provides me with a unique perspective. I am passionate about leveraging this fusion of administrative knowledge and technical skills to craft innovative solutions in the realm of Fullstack Development.
             </p>
             <p>
-              Pellentesque id lacus pulvinar elit pulvinar pretium ac non urna.
-              Mauris id mauris vel arcu commodo venenatis. Aliquam eu risus
-              arcu. Proin sit amet lacus mollis, semper massa ut, rutrum mi.
+            As I navigate through this enriching bootcamp, I am dedicated to honing my abilities and contributing meaningfully to the field. I believe that the synergy of my administrative and emerging technical expertise will be a valuable asset in approaching software development projects.
+
+
             </p>
             <p>
-              Sed sem nisi, luctus consequat ligula in, congue sodales nisl.
+            Feel free to explore my evolving portfolio and connect with me as I embark on this exciting journey. Thank you for taking the time to learn more about my professional endeavors.
             </p>
-            <p>
-              Vestibulum bibendum at erat sit amet pulvinar. Pellentesque
-              pharetra leo vitae tristique rutrum. Donec ut volutpat ante, ut
-              suscipit leo.
-            </p>
-            <h2>Sub-header</h2>
-            <p>
-              Maecenas quis elementum nulla, in lacinia nisl. Ut rutrum
-              fringilla aliquet. Pellentesque auctor vehicula malesuada. Aliquam
-              id feugiat sem, sit amet tempor nulla. Quisque fermentum felis
-              faucibus, vehicula metus ac, interdum nibh. Curabitur vitae
-              convallis ligula. Integer ac enim vel felis pharetra laoreet.
-              Interdum et malesuada fames ac ante ipsum primis in faucibus.
-              Pellentesque hendrerit ac augue quis pretium.
-            </p>
-            <p>
-              Morbi ut scelerisque nibh. Integer auctor, massa non dictum
-              tristique, elit metus efficitur elit, ac pretium sapien nisl nec
-              ante. In et ex ultricies, mollis mi in, euismod dolor.
-            </p>
-            <p>Quisque convallis ligula non magna efficitur tincidunt.</p>
-            <p>
-              Pellentesque id lacus pulvinar elit pulvinar pretium ac non urna.
-              Mauris id mauris vel arcu commodo venenatis. Aliquam eu risus
-              arcu. Proin sit amet lacus mollis, semper massa ut, rutrum mi.
-            </p>
-            <p>
-              Sed sem nisi, luctus consequat ligula in, congue sodales nisl.
-            </p>
-            <p>
-              Vestibulum bibendum at erat sit amet pulvinar. Pellentesque
-              pharetra leo vitae tristique rutrum. Donec ut volutpat ante, ut
-              suscipit leo.
-            </p>
-            <h2>Sub-header</h2>
-            <p>
-              Maecenas quis elementum nulla, in lacinia nisl. Ut rutrum
-              fringilla aliquet. Pellentesque auctor vehicula malesuada. Aliquam
-              id feugiat sem, sit amet tempor nulla. Quisque fermentum felis
-              faucibus, vehicula metus ac, interdum nibh. Curabitur vitae
-              convallis ligula. Integer ac enim vel felis pharetra laoreet.
-              Interdum et malesuada fames ac ante ipsum primis in faucibus.
-              Pellentesque hendrerit ac augue quis pretium.
-            </p>
-            <p>
-              Morbi ut scelerisque nibh. Integer auctor, massa non dictum
-              tristique, elit metus efficitur elit, ac pretium sapien nisl nec
-              ante. In et ex ultricies, mollis mi in, euismod dolor.
-            </p>
-            <p>Quisque convallis ligula non magna efficitur tincidunt.</p>
+
           </article>
         </>
       </div>

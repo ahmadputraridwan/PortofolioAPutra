@@ -10,7 +10,7 @@ const Header = () => {
     <div className="header">
       <Navbar expand="lg" fixed="top">
         <Container>
-          <Navbar.Brand>Dipesh Malvia</Navbar.Brand>
+          <Navbar.Brand>A Putra Ridwan S</Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse className="justify-content-end">
             <Nav className="ml-auto">
